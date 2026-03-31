@@ -1,0 +1,3 @@
+what happen in memory?
+call stack-> main funx occupy space here for all its variable like string
+then we have sum funx then next stack frame is occupy by sum funx and its int variable 

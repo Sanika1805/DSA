@@ -1,0 +1,2 @@
+user defined -> eg: factorial, sum
+inbuild methods -> eg: pow, sqrt, sc.nextInt()

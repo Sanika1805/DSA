@@ -1,0 +1,3 @@
+JRE -> java runtime enviroment
+source code .java -> compiler -> byte code .class -> java vertual machine (jvm) -> native code
+java is portable language becoz -> 
