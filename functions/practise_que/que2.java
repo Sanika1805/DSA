@@ -1,3 +1,4 @@
+package functions.practise_que;
 public class que2 {
     public static boolean isEven(int n){
         boolean isEven = true;
