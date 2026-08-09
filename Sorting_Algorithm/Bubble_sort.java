@@ -35,7 +35,7 @@
 import java.util.*;
 
 public class Bubble_sort {
-    public static void Bubble_sort(int arr[]){
+    public static void BubbleSort(int arr[]){
         for(int turn=0; turn<arr.length-1; turn++){
             int swap_count = 0;
             for(int j=0; j<arr.length-1-turn; j++){
@@ -64,7 +64,7 @@ public class Bubble_sort {
 
     public static void main(String[] args) {
         int arr[] = {5, 4, 1, 3, 2};
-        Bubble_sort(arr);
+        BubbleSort(arr);
         printArr(arr);
     }
 }
