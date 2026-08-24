@@ -4,7 +4,7 @@ public class Butterfly {
     public static void BP(int n){
         // First half
         for(int i=1; i<=n; i++){
-            // starts
+            // stars
             for(int j=1; j<=i; j++){
                 System.out.print("*");
             }
@@ -14,7 +14,7 @@ public class Butterfly {
                 System.out.print(" ");
             }
 
-            // starts
+            // stars
             for(int j=1; j<=i; j++){
                 System.out.print("*");
             }
